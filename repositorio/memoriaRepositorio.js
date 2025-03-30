@@ -1,4 +1,4 @@
-const repositorioMemoria = require('../repositorios/memoriaRepositorio.js');
+const repositorioMemoria = require('../repositorio/memoriaRepositorio.js');
 
 describe('Testando as funções de respostas no repositorioMemoria', () => {
   
