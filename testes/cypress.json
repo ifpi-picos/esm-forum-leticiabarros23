@@ -2,5 +2,6 @@
   "fixturesFolder": false,
   "pluginsFile": false,
   "supportFile": false,
-  "chromeWebSecurity": false
+  "chromeWebSecurity": false,
+  "integrationFolder": "teste/cypress/integration"
 }
